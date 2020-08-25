@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>https://github.com/tangsan100/demo/raw/master/ppyl.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://github.com/tangsan100/demo/raw/master/1.jpeg/string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://github.com/tangsan100/demo/raw/master/2.jpeg</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
