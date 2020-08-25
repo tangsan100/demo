@@ -1,0 +1,93 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+html{
+	font-size: 20px;
+}
+body { 
+	overflow-x: hidden;
+	max-width: 750px;
+	margin: 0 auto;
+	background: #f3f4f9;
+}
+.main{
+	width: 100%;
+	background-color: #f3f4f9;
+}
+.swiper-slide {
+	width: 100% !important;
+}
+
+.swiper-container .swiper-slide img {
+	width: 100%;
+	height: 100%;
+}
+
+.swiper-container {
+	overflow: initial;
+}
+
+.swiper-container-horizontal>.swiper-pagination-bullets {
+	bottom: .5rem;
+}
+
+.swiper-pagination-bullet-active {
+	background: #BE35AA !important;
+}
+
+.swiper-pagination-bullet {
+	background: #FE8091;
+	opacity: 1;
+}
+.top-btn{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+}
+.top-btn a{ 
+	display: block;
+	padding: .75rem .5rem;
+}
+.top-btn a img{
+	width: 100%;
+	height: 100%;
+}
+.content{
+	padding: .5rem;  
+}
+.tips {
+    width: 100%; 
+    position: relative;
+    background-color: #f0e4fb;
+    border-radius: .15rem;
+    text-align: center;
+    margin-top: .5rem;
+} 
+.tiyan-tips{
+	width: 100%;
+	padding: .5rem;
+	padding-top: 0;
+	margin: 0 auto;
+}
+.tiyan-tips img{
+	width: 100%;
+	height: 100%;
+}
+.sub-title-1 {
+    width: 7.15rem;
+    height: 1.9rem;
+	margin: 1rem 0 .8rem;
+}
+.tips .ios-tips img{
+	width: 100%;
+	height: 100%;
+}
+.content .tips:first-child{
+	margin-top: 0 !important;
+} 
+.way img{
+	width: 100%;
+	height: 100%;
+}
